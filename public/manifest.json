@@ -1,0 +1,17 @@
+{
+  "short_name": "Tesla Engenharia",
+  "name": "Tesla Engenharia & Automação - Gestão Operacional",
+  "icons": [
+    {
+      "src": "/assets/aistudio/logo_tesla_transparent.png",
+      "type": "image/png",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#080c14",
+  "theme_color": "#080c14",
+  "display": "standalone",
+  "orientation": "any",
+  "description": "Sistema de gestão de equipes de elétrica e infraestrutura, controle de projetos e permissões de trabalho."
+}

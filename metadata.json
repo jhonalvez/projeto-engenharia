@@ -1,0 +1,6 @@
+{
+  "name": "Tesla Engenharia - Gestão de Equipes & Projetos de Elétrica",
+  "description": "Sistema multiplataforma para gestão operacional de equipes de elétrica e infraestrutura, controle de projetos, alocação com trava de conflito, anexos de PT/APR e controle de materiais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
